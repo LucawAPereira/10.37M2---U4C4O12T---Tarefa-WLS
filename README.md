@@ -22,3 +22,5 @@ Este projeto tem como objetivo utilizar conhecimentos adquiridos sobre interrupc
 # Link do vídeo demonstrando funcionamento
 
 https://youtube.com/shorts/vKRjo8N08uc?feature=share
+
+vale ressaltar que no video nao foi explicado o codigo por conta do tempo limite de 2 minuntos, porém o codigo esta bem estruturado.
